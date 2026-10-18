@@ -1,0 +1,10 @@
+{
+  "questionCountByTopic": 3,
+  "sets": [
+    {"id":"overall","title":"Cabaran RBT keseluruhan","description":"20 soalan merentas tiga modul. Soalan dipilih secara rawak daripada bank latihan.","count":20,"minutes":25,"difficulty":"Campuran"},
+    {"id":"module1","title":"Cabaran Modul 1 · Aplikasi Teknologi","description":"10 soalan tentang elemen, gambar rajah blok dan penilaian produk mekatronik.","count":10,"minutes":12,"difficulty":"Campuran"},
+    {"id":"module2","title":"Cabaran Modul 2 · Pembangunan Produk","description":"12 soalan tentang proses penghasilan, bajet, pengujian dan dokumentasi.","count":12,"minutes":15,"difficulty":"Campuran"},
+    {"id":"module3","title":"Cabaran Modul 3 · Reka Bentuk dalam Perniagaan","description":"10 soalan tentang pemasaran, reka bentuk iklan dan pemilihan media.","count":10,"minutes":12,"difficulty":"Campuran"}
+  ],
+  "practiceMode":"Mod latihan memaparkan maklum balas selepas penghantaran sahaja. Jawapan tidak didedahkan sebelum kuiz dihantar."
+}
